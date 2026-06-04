@@ -26,7 +26,7 @@ Clone o repositório ou baixe os arquivos para o seu computador.
 Abra o terminal na pasta raiz do projeto.
 Execute o comando abaixo para iniciar o simulador:
 
-bash
+
 node index.js
 
 Funcionalidades Obrigatórias Implementadas
